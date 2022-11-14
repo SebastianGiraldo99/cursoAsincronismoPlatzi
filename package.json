@@ -1,0 +1,25 @@
+{
+  "name": "cursoasincronismoplatzi",
+  "version": "1.0.0",
+  "description": "Async course in Platzi",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/challenge.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebastianGiraldo99/cursoAsincronismoPlatzi.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Sebastian Giraldo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SebastianGiraldo99/cursoAsincronismoPlatzi/issues"
+  },
+  "homepage": "https://github.com/SebastianGiraldo99/cursoAsincronismoPlatzi#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
